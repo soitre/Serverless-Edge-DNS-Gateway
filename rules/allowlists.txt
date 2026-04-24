@@ -18,3 +18,7 @@ vlxx.bz
 vlxx.ms
 click.mz.simba.taobao.com
 click.tz.simba.taobao.com
+adsense.google.com
+analytics.google.com
+adipolo.com
+dashboard.adipolo.com
